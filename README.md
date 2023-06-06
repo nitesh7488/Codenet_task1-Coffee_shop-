@@ -79,11 +79,6 @@ The file structure of the project is as follows:
 ├── css/
 │   ├── style.css
 ├── images/
-│   ├── banner.jpg
-│   ├── coffee1.jpg
-│   ├── coffee2.jpg
-│   └── ...
-└── README.md
 
     index.html: The main HTML file that represents the structure of the website.
 
